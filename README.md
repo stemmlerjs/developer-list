@@ -49,6 +49,10 @@ A list of things related to development.
 ### Code Sharing
 - [Carbon](https://carbon.now.sh) - Create beautiful code snippets
 
+### Dev Blogs
+#### Freelancing
+- [Cron Dose: Freelancer Friday](https://www.crondose.com/category/freelancer-friday/)
+
 ### NodeJS
 
 
