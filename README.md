@@ -38,10 +38,12 @@ A list of things related to design.
 - [PixJS](https://pixijs.io/examples/#/basics/custom-filter.js) - Unreal 2D WebGL renderer http://www.pixijs.com/
 
 ## Development
+A list of things related to development.
 ### NodeJS
 
 
 ## Ops
+A list of things related to ops, networking and linux.
 ### NodeJS
 - [How to scale a Nodejs app based on number of users](https://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
 - [NodeJS Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
