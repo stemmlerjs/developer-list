@@ -12,6 +12,7 @@ A list of things related to design.
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
 - [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
+- [Sitesee](https://sitesee.co/)
 
 #### Minimal & Clean
 - [Ueno](https://ueno.co/work/jelly)
@@ -19,7 +20,6 @@ A list of things related to design.
 - [Loft./Homepage](https://dribbble.com/shots/3441078-Loft-Homepage) - Another clean design, heavy on product photography
 - [Timmyomahony.com](https://timmyomahony.com/)
 - [roybarber.com](https://roybarber.com/)
-
 
 #### Music
 - [Mecca83](http://mecca83.com/) - Blog and website 
@@ -29,6 +29,10 @@ A list of things related to design.
 #### Poppy
 - [Type & Pixel](http://typeandpixel.com.au/)
 
+#### Store Design
+- [MB Locker](https://mb-locker-room.com/)
+- [Inner Decay](https://innerdecay.com/)
+
 ### Tools
 #### Carousels
 - [Flickity](https://flickity.metafizzy.co/)
@@ -37,10 +41,20 @@ A list of things related to design.
 - [Greensock](https://greensock.com/get-started-js)
 - [PixJS](https://pixijs.io/examples/#/basics/custom-filter.js) - Unreal 2D WebGL renderer http://www.pixijs.com/
 
+#### Icons
+- [Illustrio](https://illustrio.com/)
+
 ## Development
 A list of things related to development.
+### Code Sharing
+- [Carbon](https://carbon.now.sh) - Create beautiful code snippets
+
 ### NodeJS
 
+
+## Free stuff
+### All
+- [GrowthSupply](http://growthsupply.com/free/all/) - Hundreds of free things and resouces. Literally everything. 
 
 ## Ops
 A list of things related to ops, networking and linux.
