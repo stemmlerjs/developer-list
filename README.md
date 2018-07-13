@@ -60,6 +60,10 @@ A list of things related to development.
 ### All
 - [GrowthSupply](http://growthsupply.com/free/all/) - Hundreds of free things and resouces. Literally everything. 
 
+### Books
+- [Library Genesis](http://libgen.io/)
+- [Fox Ebook](http://www.foxebook.net/)
+
 ## Ops
 A list of things related to ops, networking and linux.
 ### NodeJS
