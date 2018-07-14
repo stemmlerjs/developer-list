@@ -12,6 +12,7 @@ A list of things related to design.
 - [rubyrussia](https://rubyrussia.club/)
 - [PW Magazine](https://www.pw-magazine.com/)
 - [tavanovincent.com](https://tavanovincent.com/)
+- [Codes & Algorithms](http://codes-algorithms.keenonmag.com/multidimensionalrelations/) - This is really something. It's an entire magazine on code and algorithms by multiple authors and divided into different sections/styles. Never really seen anything like this before on the web.
 
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
