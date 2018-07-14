@@ -8,6 +8,9 @@ A list of things related to design.
 - [CSS Tricks to Revolutionalise Your Layouts](https://www.creativebloq.com/features/css-tricks-to-revolutionise-your-layouts)
 - [Creative Approach To SVG](http://aganaplocha.com/cssconf-oslo/#/)
 
+### Fonts
+- [Paratype Mono](https://fonts.google.com/specimen/PT+Mono) - Hacker/tech font.
+
 ### Free 
 - [22 free ebooks for designers and artists](https://www.creativebloq.com/design/free-ebooks-designers-7133700)
 
