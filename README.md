@@ -9,6 +9,8 @@ A list of things related to design.
 - [Anton & Irene](http://work.antonandirene.com/silasveta/)
 - [Vanholtz](https://vanholtz.co/) (that's a really awesome navigation)
 - [robinjasani.fr](http://robinjasani.fr/)
+- [rubyrussia](https://rubyrussia.club/)
+- [PW Magazine](https://www.pw-magazine.com/)
 
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
