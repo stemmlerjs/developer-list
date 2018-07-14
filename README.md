@@ -4,7 +4,14 @@ My personal list of design inspiration, tools and developer resources
 ## Design
 A list of things related to design.
 
+### Articles
+- [CSS Tricks to Revolutionalise Your Layouts](https://www.creativebloq.com/features/css-tricks-to-revolutionise-your-layouts)
+- [Creative Approach To SVG](http://aganaplocha.com/cssconf-oslo/#/)
+
 ### Inspiration
+#### Animation Heavy
+- [ortizleon.es](http://www.ortizleon.es/projects)
+
 #### Brutalist
 - [Anton & Irene](http://work.antonandirene.com/silasveta/)
 - [Vanholtz](https://vanholtz.co/) (that's a really awesome navigation)
@@ -13,6 +20,7 @@ A list of things related to design.
 - [PW Magazine](https://www.pw-magazine.com/)
 - [tavanovincent.com](https://tavanovincent.com/)
 - [Codes & Algorithms](http://codes-algorithms.keenonmag.com/multidimensionalrelations/) - This is really something. It's an entire magazine on code and algorithms by multiple authors and divided into different sections/styles. Never really seen anything like this before on the web.
+- [tennentbrown.co.nz](http://tennentbrown.co.nz/) - The skew effects here are top notch.
 
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
