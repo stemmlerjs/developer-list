@@ -11,6 +11,7 @@ A list of things related to design.
 - [robinjasani.fr](http://robinjasani.fr/)
 - [rubyrussia](https://rubyrussia.club/)
 - [PW Magazine](https://www.pw-magazine.com/)
+- [tavanovincent.com](https://tavanovincent.com/)
 
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
