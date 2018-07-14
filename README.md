@@ -37,6 +37,7 @@ A list of things related to design.
 - [Loft./Homepage](https://dribbble.com/shots/3441078-Loft-Homepage) - Another clean design, heavy on product photography
 - [Timmyomahony.com](https://timmyomahony.com/)
 - [roybarber.com](https://roybarber.com/)
+- [Christopher Wool](http://wool735.com/) - Artist portfolio. Unique way of presenting all of his work by year.
 
 #### Music
 - [Mecca83](http://mecca83.com/) - Blog and website 
