@@ -8,6 +8,9 @@ A list of things related to design.
 - [CSS Tricks to Revolutionalise Your Layouts](https://www.creativebloq.com/features/css-tricks-to-revolutionise-your-layouts)
 - [Creative Approach To SVG](http://aganaplocha.com/cssconf-oslo/#/)
 
+### Free 
+- [22 free ebooks for designers and artists](https://www.creativebloq.com/design/free-ebooks-designers-7133700)
+
 ### Inspiration
 #### Animation Heavy
 - [ortizleon.es](http://www.ortizleon.es/projects)
@@ -26,6 +29,7 @@ A list of things related to design.
 - [Uplabs](https://www.uplabs.com/)
 - [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
 - [Sitesee](https://sitesee.co/)
+- [Creative Bloq](https://www.creativebloq.com/) - Great articles and resources on design.
 
 #### Minimal & Clean
 - [Ueno](https://ueno.co/work/jelly)
