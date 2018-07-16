@@ -73,6 +73,8 @@ A list of things related to development.
 ### Dev Blogs
 #### Freelancing
 - [Cron Dose: Freelancer Friday](https://www.crondose.com/category/freelancer-friday/)
+- [Mobile app development cost](https://www.comentum.com/mobile-app-development-cost.html)
+- [How much it costs to build a web application](https://djangostars.com/blog/how-much-it-costs-to-build-a-web-application/)
 
 ### NodeJS
 
