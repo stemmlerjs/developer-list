@@ -100,3 +100,17 @@ A list of things related to ops, networking and linux.
 ### SSL
 - [Getting a Perfect SSL Labs Score](https://michael.lustfield.net/nginx/getting-a-perfect-ssl-labs-score)
 
+## Work
+### Freelance
+- [Jobbliss](https://www.gojobbliss.com/about/freelancers)
+- [PeoplePerHour](https://www.peopleperhour.com/site/register?rfrd=1225467.1)
+- [Guru](https://www.guru.com/)
+- [UpWork](https://www.upwork.com/ab/account-security/login?redir=/ab/find-work/)
+
+
+### Remote
+- [RemoteOK](https://remoteok.io)
+- [RemotelyAwesomeJobs](https://www.remotelyawesomejobs.com)
+- [Remote.co](https://remote.co/remote-jobs/)
+- [WorkingNomads](https://www.workingnomads.co/jobs)
+- [FlexJobs](https://www.flexjobs.com/)
