@@ -86,6 +86,7 @@ A list of things related to development.
 ### Books
 - [Library Genesis](http://libgen.io/)
 - [Fox Ebook](http://www.foxebook.net/)
+- [Mobilism](https://forum.mobilism.org/index.php)
 
 ## Ops
 A list of things related to ops, networking and linux.
