@@ -80,6 +80,7 @@ A list of things related to development.
 
 ### Interview Prep
 - [Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+- [How to Ace the Technical Interview](https://www.cio.com/article/2383000/careers-staffing/careers-staffing-how-to-prepare-for-and-ace-the-technical-interview.html)
 
 #### JavaScript
 - [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
