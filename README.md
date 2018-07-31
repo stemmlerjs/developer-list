@@ -67,6 +67,8 @@ A list of things related to design.
 
 ## Development
 A list of things related to development.
+
+- [RealWorld: Real world apps on any stack](https://github.com/gothinkster/realworld)
 ### Code Sharing
 - [Carbon](https://carbon.now.sh) - Create beautiful code snippets
 
@@ -75,6 +77,17 @@ A list of things related to development.
 - [Cron Dose: Freelancer Friday](https://www.crondose.com/category/freelancer-friday/)
 - [Mobile app development cost](https://www.comentum.com/mobile-app-development-cost.html)
 - [How much it costs to build a web application](https://djangostars.com/blog/how-much-it-costs-to-build-a-web-application/)
+
+### Interview Prep
+#### JavaScript
+- [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+- [JavaScript Hiring Guide](https://www.toptal.com/javascript#hiring-guide)
+
+#### Sorting Algorithms
+- [Sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
+
+#### Other
+- [Company Culture Questions](https://www.thebalancecareers.com/company-culture-interview-questions-2061194)
 
 ### NodeJS
 
@@ -114,10 +127,14 @@ A list of things related to ops, networking and linux.
 - [Guru](https://www.guru.com/)
 - [UpWork](https://www.upwork.com/ab/account-security/login?redir=/ab/find-work/)
 
+### Resources
+- [Code Sample Tips for Job Interviews](https://spin.atomicobject.com/2016/04/10/job-application-code-sample/)
+
 
 ### Remote
 - [RemoteOK](https://remoteok.io)
 - [RemotelyAwesomeJobs](https://www.remotelyawesomejobs.com)
 - [Remote.co](https://remote.co/remote-jobs/)
+- [Rework List](https://www.reworklist.com/)
 - [WorkingNomads](https://www.workingnomads.co/jobs)
 - [FlexJobs](https://www.flexjobs.com/)
