@@ -79,6 +79,8 @@ A list of things related to development.
 - [How much it costs to build a web application](https://djangostars.com/blog/how-much-it-costs-to-build-a-web-application/)
 
 ### Interview Prep
+- [Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+
 #### JavaScript
 - [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [JavaScript Hiring Guide](https://www.toptal.com/javascript#hiring-guide)
