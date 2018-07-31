@@ -132,7 +132,6 @@ A list of things related to ops, networking and linux.
 ### Resources
 - [Code Sample Tips for Job Interviews](https://spin.atomicobject.com/2016/04/10/job-application-code-sample/)
 
-
 ### Remote
 - [RemoteOK](https://remoteok.io)
 - [RemotelyAwesomeJobs](https://www.remotelyawesomejobs.com)
@@ -140,3 +139,6 @@ A list of things related to ops, networking and linux.
 - [Rework List](https://www.reworklist.com/)
 - [WorkingNomads](https://www.workingnomads.co/jobs)
 - [FlexJobs](https://www.flexjobs.com/)
+
+### Reddit Threads
+- [How to Attain a 100% Remote Job](https://www.reddit.com/r/cscareerquestions/comments/3yetp9/how_hard_is_it_to_attain_a_100_remote_fulltime/)
