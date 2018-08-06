@@ -89,6 +89,15 @@ A list of things related to development.
 #### Sorting Algorithms
 - [Sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
 
+#### Testing
+- [Jest API](https://jestjs.io/docs/en/expect.html#not)
+
+##### React
+- [Mozilla Hacks: Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
+
+##### Redux
+- [Redux Test Recipes](https://redux.js.org/recipes/writingtests)
+
 #### Other
 - [Company Culture Questions](https://www.thebalancecareers.com/company-culture-interview-questions-2061194)
 
