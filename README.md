@@ -100,6 +100,7 @@ A list of things related to development.
 
 #### Other
 - [Company Culture Questions](https://www.thebalancecareers.com/company-culture-interview-questions-2061194)
+- [High Scalability: Everything Systems Design for Scale](http://highscalability.com/)
 
 ### NodeJS
 
