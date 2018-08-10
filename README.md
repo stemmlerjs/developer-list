@@ -145,6 +145,7 @@ A list of things related to ops, networking and linux.
 
 ### Resources
 - [Code Sample Tips for Job Interviews](https://spin.atomicobject.com/2016/04/10/job-application-code-sample/)
+- [Contracting in Canada](https://www.cameronhuff.com/blog/becoming-a-contract-programmer-in-canada/index.html)
 
 ### Remote
 - [RemoteOK](https://remoteok.io)
