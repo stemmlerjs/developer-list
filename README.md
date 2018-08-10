@@ -122,9 +122,11 @@ A list of things related to development.
 
 ## Ops
 A list of things related to ops, networking and linux.
-### NodeJS
+### Node.js Security
 - [How to scale a Nodejs app based on number of users](https://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
 - [NodeJS Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+- [9 Security Tips for Express.js](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
+
 ### Ngninx
 - [Lets Encrypt with an nginx reverse proxy](https://serverfault.com/questions/768509/lets-encrypt-with-an-nginx-reverse-proxy)
 - [Fail2Ban on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
