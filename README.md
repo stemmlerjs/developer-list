@@ -7,6 +7,8 @@ A list of things related to design.
 ### Articles
 - [CSS Tricks to Revolutionalise Your Layouts](https://www.creativebloq.com/features/css-tricks-to-revolutionise-your-layouts)
 - [Creative Approach To SVG](http://aganaplocha.com/cssconf-oslo/#/)
+- [Appcues: UX Fundementals](https://www.appcues.com/blog/ux-fundamentals)
+- [Appcues: How to design tooltips](https://www.appcues.com/blog/tooltips)
 
 ### Fonts
 - [Paratype Mono](https://fonts.google.com/specimen/PT+Mono) - Hacker/tech font.
@@ -71,6 +73,11 @@ A list of things related to design.
 ## Development
 A list of things related to development.
 
+### Articles
+- [Building Enterprise NodeJS Apps](https://stackoverflow.com/questions/41875617/building-enterprise-app-with-node-express)
+- [Structuring Business Login in Node.js Applications](https://codeburst.io/structuring-business-logic-in-node-js-application-326ba4dec658)
+- []()
+
 - [RealWorld: Real world apps on any stack](https://github.com/gothinkster/realworld)
 ### Code Sharing
 - [Carbon](https://carbon.now.sh) - Create beautiful code snippets
@@ -80,6 +87,10 @@ A list of things related to development.
 - [Cron Dose: Freelancer Friday](https://www.crondose.com/category/freelancer-friday/)
 - [Mobile app development cost](https://www.comentum.com/mobile-app-development-cost.html)
 - [How much it costs to build a web application](https://djangostars.com/blog/how-much-it-costs-to-build-a-web-application/)
+
+### Docs
+- [EditorConfig docs](https://editorconfig.org/)
+- [Eslint Documentation](https://eslint.org/docs/rules/)
 
 ### Interview Prep
 - [Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
