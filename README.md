@@ -77,7 +77,7 @@ A list of things related to development.
 ### Articles
 - [Building Enterprise NodeJS Apps](https://stackoverflow.com/questions/41875617/building-enterprise-app-with-node-express)
 - [Structuring Business Login in Node.js Applications](https://codeburst.io/structuring-business-logic-in-node-js-application-326ba4dec658)
-- []()
+- [Use Render Props instead of HOCs](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 
 - [RealWorld: Real world apps on any stack](https://github.com/gothinkster/realworld)
 ### Code Sharing
