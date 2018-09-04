@@ -81,7 +81,9 @@ A list of things related to development.
 - [RealWorld: Real world apps on any stack](https://github.com/gothinkster/realworld)
 
 ### CSS
+- [Block Element Methodology](https://en.bem.info/methodology/quick-start/)
 - [CSS Naming Patterns](https://blog.toughbyte.com/blabla-9fd86eae4e6c)
+
 ### Code Sharing
 - [Carbon](https://carbon.now.sh) - Create beautiful code snippets
 
