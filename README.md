@@ -158,6 +158,9 @@ A list of things related to ops, networking and linux.
 ### SSL
 - [Getting a Perfect SSL Labs Score](https://michael.lustfield.net/nginx/getting-a-perfect-ssl-labs-score)
 
+### Tools
+- [StatusPage.io](https://www.statuspage.io/) - report the status of your website (medium, twitter, etc other sites use this)
+
 ## Personal Growth
 - [Kate Heddleston - Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer) - Being patient, being a good person, how to work well on a team.
 
