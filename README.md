@@ -125,6 +125,9 @@ A list of things related to development.
 - [Company Culture Questions](https://www.thebalancecareers.com/company-culture-interview-questions-2061194)
 - [High Scalability: Everything Systems Design for Scale](http://highscalability.com/)
 
+#### Web Development
+- [Dev.to](https://dev.to/) - just an awesome blog, great UI (my kinda shit)
+
 ### NodeJS
 
 ### Portfolios
