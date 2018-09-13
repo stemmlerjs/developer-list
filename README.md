@@ -21,6 +21,10 @@ A list of things related to design.
 #### Animation Heavy
 - [ortizleon.es](http://www.ortizleon.es/projects)
 
+### Patterns
+- [Hero Patterns](https://www.heropatterns.com/) - Free repeatable patterns
+- [Flaticon Patterns](https://pattern.flaticon.com/) - Make your own reusable patterns out of icons
+
 #### Brutalist
 - [Anton & Irene](http://work.antonandirene.com/silasveta/)
 - [Vanholtz](https://vanholtz.co/) (that's a really awesome navigation)
