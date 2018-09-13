@@ -164,6 +164,7 @@ A list of things related to ops, networking and linux.
 
 ### Tools
 - [StatusPage.io](https://www.statuspage.io/) - report the status of your website (medium, twitter, etc other sites use this)
+- [Latency.io](https://latency.apex.sh/?url=https%3A%2F%2Fkhalilstemmler.com&compare=) - beautiful tool to see latency of your website around the world
 
 ## Personal Growth
 - [Kate Heddleston - Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer) - Being patient, being a good person, how to work well on a team.
