@@ -116,6 +116,8 @@ A list of things related to development.
 ### Music
 - [Making Sine, Square, Sawtooth and Triangle Waves](https://blog.stuartmemo.com/making-sine-square-sawtooth-and-triangle-waves/)
 - [Querty Hancock](https://github.com/stuartmemo/qwerty-hancock) - Instant musical keyboard for the Browser.
+- [Threresa Sound World](http://theresassoundworld.com/) - Web Audio API Library (made by a sonic youth fan)
+- [List of Web Audio Resources](https://github.com/alemangui/web-audio-resources)
 
 #### Sorting Algorithms
 - [Sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
