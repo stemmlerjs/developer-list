@@ -25,6 +25,10 @@ A list of things related to design.
 - [Hero Patterns](https://www.heropatterns.com/) - Free repeatable patterns
 - [Flaticon Patterns](https://pattern.flaticon.com/) - Make your own reusable patterns out of icons
 - [Toptal: Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+
+### Spinners
+- [http://tobiasahlin.com/spinkit/](http://tobiasahlin.com/spinkit/) - good spinners, ez to use
+
 #### Brutalist
 - [Anton & Irene](http://work.antonandirene.com/silasveta/)
 - [Vanholtz](https://vanholtz.co/) (that's a really awesome navigation)
