@@ -113,6 +113,10 @@ A list of things related to development.
 - [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [JavaScript Hiring Guide](https://www.toptal.com/javascript#hiring-guide)
 
+### Music
+- [Making Sine, Square, Sawtooth and Triangle Waves](https://blog.stuartmemo.com/making-sine-square-sawtooth-and-triangle-waves/)
+- [Querty Hancock](https://github.com/stuartmemo/qwerty-hancock) - Instant musical keyboard for the Browser.
+
 #### Sorting Algorithms
 - [Sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
 
