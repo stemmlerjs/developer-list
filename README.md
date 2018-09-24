@@ -201,6 +201,7 @@ A list of things related to ops, networking and linux.
 - [WorkingNomads](https://www.workingnomads.co/jobs)
 - [FlexJobs](https://www.flexjobs.com/)
 - [RemoteList.io](https://remotelist.io/)
+- [RemoteLeads](https://remoteleads.io/premium) - find remote leads
 
 ### Reddit Threads
 - [How to Attain a 100% Remote Job](https://www.reddit.com/r/cscareerquestions/comments/3yetp9/how_hard_is_it_to_attain_a_100_remote_fulltime/)
