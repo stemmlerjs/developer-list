@@ -53,6 +53,9 @@ A list of things related to design.
 - [roybarber.com](https://roybarber.com/)
 - [Christopher Wool](http://wool735.com/) - Artist portfolio. Unique way of presenting all of his work by year.
 
+#### Motion
+- [Material Design on Understanding Transition Anatomy](https://material.io/design/motion/understanding-motion.html#transition-anatomy)
+
 #### Music
 - [Mecca83](http://mecca83.com/) - Blog and website 
 - [BUEsic Music Player Design](http://erikbue.com/buesic)
