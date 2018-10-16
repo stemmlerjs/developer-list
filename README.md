@@ -10,6 +10,7 @@ A list of things related to design.
 - [Appcues: UX Fundementals](https://www.appcues.com/blog/ux-fundamentals)
 - [Appcues: How to design tooltips](https://www.appcues.com/blog/tooltips)
 - [A Developers Guide to Web Design for Non Designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d) - Actually quite useful, good basic examples and lots of links
+- [Dropdown Alternatives](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53)
 
 ### Concepts
 - [Skeuomorph](https://en.wikipedia.org/wiki/Skeuomorph)
