@@ -11,6 +11,10 @@ A list of things related to design.
 - [Appcues: How to design tooltips](https://www.appcues.com/blog/tooltips)
 - [A Developers Guide to Web Design for Non Designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d) - Actually quite useful, good basic examples and lots of links
 
+### Concepts
+- [Skeuomorph](https://en.wikipedia.org/wiki/Skeuomorph)
+- [Flat Design](https://en.wikipedia.org/wiki/Flat_design)
+
 ### Fonts
 - [Paratype Mono](https://fonts.google.com/specimen/PT+Mono) - Hacker/tech font.
 
