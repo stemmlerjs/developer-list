@@ -21,6 +21,8 @@ A list of things related to design.
 
 ### Free 
 - [22 free ebooks for designers and artists](https://www.creativebloq.com/design/free-ebooks-designers-7133700)
+- [Noshit.xyz](https://noshit.xyz/?ref=producthunt) - Awesome collection of images and design resources
+- [Undraw](https://undraw.co/illustrations) - this is what we used in Univjobs
 
 ### Inspiration
 #### Animation Heavy
