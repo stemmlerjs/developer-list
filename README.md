@@ -161,6 +161,7 @@ A list of things related to development.
 - [Library Genesis](http://libgen.io/)
 - [Fox Ebook](http://www.foxebook.net/)
 - [Mobilism](https://forum.mobilism.org/index.php)
+- [Learn D3 - D3Book](https://github.com/alignedleft/d3-book)
 
 ### Deployment
 - [Surge.sh](https://surge.sh/tour) - deploy your front end from the cli
