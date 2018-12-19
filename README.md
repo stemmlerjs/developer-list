@@ -138,6 +138,7 @@ A list of things related to development.
 
 ##### React
 - [Mozilla Hacks: Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
+- [React Avatar Editor](https://www.npmjs.com/package/react-avatar-editor)
 
 ##### Redux
 - [Redux Test Recipes](https://redux.js.org/recipes/writingtests)
