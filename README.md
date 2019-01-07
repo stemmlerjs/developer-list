@@ -136,6 +136,9 @@ A list of things related to development.
 #### Testing
 - [Jest API](https://jestjs.io/docs/en/expect.html#not)
 
+#### Typescript
+- [JSON to TS](http://www.jsontots.com/) - Useful for creating Typescript interfaces out of JSON.
+
 ##### React
 - [Mozilla Hacks: Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
 - [React Avatar Editor](https://www.npmjs.com/package/react-avatar-editor)
