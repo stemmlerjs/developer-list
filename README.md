@@ -93,6 +93,10 @@ A list of things related to design.
 ## Development
 A list of things related to development.
 
+### Architecture
+- [Nodejs architecture best practices](https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626) - pays a lot of attention to Uncle Bob, good article.
+- [The Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - the start point for understanding clean architecture.
+
 ### Articles
 - [Building Enterprise NodeJS Apps](https://stackoverflow.com/questions/41875617/building-enterprise-app-with-node-express)
 - [Structuring Business Login in Node.js Applications](https://codeburst.io/structuring-business-logic-in-node-js-application-326ba4dec658)
