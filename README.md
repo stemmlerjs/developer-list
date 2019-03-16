@@ -18,6 +18,8 @@ A list of things related to design.
 
 ### Fonts
 - [Paratype Mono](https://fonts.google.com/specimen/PT+Mono) - Hacker/tech font.
+- [Trickster](https://fontsinuse.com/typefaces/76001/trickster) - This is my primary brand font.
+- [Uses of fonts in Punk Rock Artwork](https://fontsinuse.com/tags/779/punk-rock) - Amazing site, really awesome to see the way that people utilize the strengths of certain fonts
 
 ### Free 
 - [22 free ebooks for designers and artists](https://www.creativebloq.com/design/free-ebooks-designers-7133700)
