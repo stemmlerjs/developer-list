@@ -17,6 +17,7 @@ A list of things related to design.
 - [Flat Design](https://en.wikipedia.org/wiki/Flat_design)
 
 ### Fonts
+- [velvetyne](https://velvetyne.fr/) - Wow. This site and all these fonts, it inspires me to make something weird.
 - [Paratype Mono](https://fonts.google.com/specimen/PT+Mono) - Hacker/tech font.
 - [Trickster](https://fontsinuse.com/typefaces/76001/trickster) - This is my primary brand font.
 - [Uses of fonts in Punk Rock Artwork](https://fontsinuse.com/tags/779/punk-rock) - Amazing site, really awesome to see the way that people utilize the strengths of certain fonts
