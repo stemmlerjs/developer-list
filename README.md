@@ -49,6 +49,7 @@ A list of things related to design.
 - [Codes & Algorithms](http://codes-algorithms.keenonmag.com/multidimensionalrelations/) - This is really something. It's an entire magazine on code and algorithms by multiple authors and divided into different sections/styles. Never really seen anything like this before on the web.
 - [tennentbrown.co.nz](http://tennentbrown.co.nz/) - The skew effects here are top notch.
 - [chasem.co](https://chasem.co/) - Cool site built on Gatsby using a myriad of APIs
+- [Thisisfoolproof.com](https://www.thisisfoolproof.com/) - Excellent, bright site. Love the use of color and fonts.
 
 #### Design inspiration sites
 - [Uplabs](https://www.uplabs.com/)
